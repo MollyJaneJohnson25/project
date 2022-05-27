@@ -4,7 +4,7 @@ item,phasetype,max_time,text,shuffle_1,survey,left_back,right_back,lock_img,lock
   Your browser does not support the video tag.
 </video>",off,,,,,,,,,,,,,
 0,survey,,,off,cam_info,,,,,,,,,,,,
-0,survey,,,off,cam_consent,,,,,,,,,,,,
+0,survey,,,off,cam_consent.csv,,,,,,,,,,,,
 0,survey,,,off,cam_demographics,,,,,,,,,,,,
 0,instruct,,"<span style=""font-size:20px""><b>You will see two boxes with locks</span></b><br>
 <span style=""font-size:20px""><b>One box has videos of people while other has videos of household objects</span></b><br><br>

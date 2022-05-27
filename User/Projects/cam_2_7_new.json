@@ -5329,7 +5329,7 @@
         "1",
         "No",
         "70%",
-        "",
+        "yes",
         ""
       ],
       [
@@ -5340,7 +5340,7 @@
         "1",
         "No",
         "70%",
-        "",
+        "yes",
         ""
       ],
       [
@@ -5351,19 +5351,41 @@
         "1",
         "No",
         "70%",
-        "",
+        "yes",
         ""
       ],
       [
+        "cam_consent_9",
+        "9. If you would to be entered into a draw with a chance of winning one of five £50 vouchers, please enter your email address here.",
+        "para",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
+        "Yes",
+        "70%",
+        "yes",
         ""
+      ],
+      [
+        "cam_consent_10",
+        "10. I am ready to participate",
+        "likert",
+        "Yes",
+        "1",
+        "Yes",
+        "70%",
+        "yes",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
     ],
     "cam_info.csv": [
