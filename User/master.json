@@ -80407,6 +80407,111 @@
           "",
           ""
         ]
+      ],
+      "cam_info 2.csv": [
+        [
+          "item_name",
+          "text",
+          "type",
+          "answers",
+          "optional",
+          "values",
+          "side_by_side",
+          "btn_width",
+          ""
+        ],
+        [
+          "Gender",
+          "Gender",
+          "likert",
+          "Female|Male|Other",
+          "No",
+          "",
+          "yes",
+          "100px",
+          ""
+        ],
+        [
+          "Age",
+          "Age",
+          "number",
+          "",
+          "No",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Education",
+          "Education (which level are you currently in, or is the highest you've completed)",
+          "dropdown",
+          "Some high school| High school graduate| Some college, no degree| Associate's degree| Bachelor's degree|Graduate degree (Master's, Doctorate, etc.)",
+          "No",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "English_Fluency",
+          "Do you speak English fluently?",
+          "likert",
+          "Yes|No",
+          "No",
+          "",
+          "yes",
+          "200px",
+          ""
+        ],
+        [
+          "English_Age",
+          "At what age did you start learning English? (write \"0\" if from birth)",
+          "number",
+          "",
+          "No",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Country",
+          "What is your country of residence?",
+          "text",
+          "",
+          "No",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Handedness",
+          "What is your preferred hand?",
+          "likert",
+          "Left|Right|Both",
+          "No",
+          "",
+          "yes",
+          "100px",
+          ""
+        ],
+        [
+          "ethnicity",
+          "If you would like to please state your ethnicity",
+          "text",
+          "",
+          "Yes",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
       ]
     },
     "default_surveys": {
@@ -81362,13 +81467,12 @@
         [
           "item_name",
           "text",
-          "type",
-          "answers",
-          "optional",
-          "values",
+          "Type",
+          "Answers",
+          "Optional",
+          "Values",
           "side_by_side",
-          "btn_width",
-          null
+          "btn_width"
         ],
         [
           "Gender",
@@ -81378,30 +81482,27 @@
           "No",
           "",
           "yes",
-          "100px",
-          null
+          "100px"
         ],
         [
           "Age",
           "Age",
-          "number",
+          "Number",
           "",
           "No",
           "",
           "",
-          "",
-          null
+          ""
         ],
         [
           "Education",
           "Education (which level are you currently in, or is the highest you've completed)",
-          "dropdown",
+          "Dropdown",
           "Some high school| High school graduate| Some college, no degree| Associate's degree| Bachelor's degree|Graduate degree (Master's, Doctorate, etc.)",
           "No",
           "",
           "",
-          "",
-          null
+          ""
         ],
         [
           "English_Fluency",
@@ -81411,56 +81512,50 @@
           "No",
           "",
           "yes",
-          "200px",
-          null
+          "200px"
         ],
         [
           "English_Age",
           "At what age did you start learning English? (write \"0\" if from birth)",
-          "number",
+          "Number",
           "",
           "No",
           "",
           "",
-          "",
-          null
+          ""
         ],
         [
           "Country",
           "What is your country of residence?",
-          "text",
+          "Text",
           "",
           "No",
           "",
           "",
-          "",
-          null
+          ""
         ],
         [
           "Handedness",
           "What is your preferred hand?",
-          "likert",
+          "Likert",
           "Left|Right|Both",
           "No",
           "",
           "yes",
-          "100px",
-          null
+          "100px"
         ],
         [
           "ethnicity",
           "If you would like to please state your ethnicity",
-          "text",
+          "Text",
           "",
           "Yes",
           "",
           "",
-          "",
-          null
+          ""
         ],
         [
-          "",
-          null
+          ""
         ]
       ],
       "empathy_quotient_40.csv": [
