@@ -1,7 +1,7 @@
-item_name,text,Type,Answers,Values,score:scaared_anxiety_disorder,score:panic_somatic,score:generalisedanxietydisorder,score:separationanxietydisorder,score:socialphobia,Optional,
+item_name,text,type,answers,values,score:scaared_anxiety_disorder,score:panic_somatic,score:generalisedanxietydisorder,score:separationanxietydisorder,score:socialphobia,optional,
 Instructions1,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is 'Not True or Hardly Ever
 True' or 'Somewhat True or Sometimes True' or 'Very True or Often True' for you. Then, for each sentence, choose
-the box that corresponds to the response that seems to describe you now or within the past 3 months",Instruct,,,,,,,,,
+the box that corresponds to the response that seems to describe you now or within the past 3 months",instruct,,,,,,,,,
 SCAARED1,"When I feel nervous, it is hard for me to breathe.",likert,Not True or Hardly Ever True| Somewhat True or Sometimes True| Very True or Often True,0|1|2,1,1,,,,No,
 SCAARED2,"I get headaches when I am at school, at work or in public places.",likert,Not True or Hardly Ever True| Somewhat True or Sometimes True| Very True or Often True,0|1|2,1,1,,,,No,
 SCAARED3,I don't like to be with people I don't know well.,likert,Not True or Hardly Ever True| Somewhat True or Sometimes True| Very True or Often True,0|1|2,1,,,,1,No,

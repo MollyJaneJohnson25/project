@@ -41327,7 +41327,7 @@
               "Type",
               "Answers",
               "Values",
-              "Score: AQ_Test",
+              "score:aq_test",
               "Optional",
               null
             ],
@@ -57060,7 +57060,7 @@
           "Type",
           "Answers",
           "Values",
-          "Score: AQ_Test",
+          "score:aq_test",
           "Optional",
           null
         ],
@@ -57362,11 +57362,11 @@
           "Type",
           "Answers",
           "Values",
-          "Score: SCAARED_Anxiety_Disorder",
-          "Score: Panic_somatic",
-          "Score: Generalised Anxiety Disorder",
-          "Score: Separation Anxiety Disorder",
-          "Score: Social Phobia",
+          "score:scaared_anxiety_disorder",
+          "score:panic_somatic",
+          "score:generalisedanxietydisorder",
+          "score:separationanxietydisorder",
+          "score:socialphobia",
           "Optional",
           ""
         ],
@@ -69242,7 +69242,7 @@
           "Type",
           "Answers",
           "Values",
-          "Score: hsp_total",
+          "score:hsp_total",
           "Optional",
           ""
         ],
