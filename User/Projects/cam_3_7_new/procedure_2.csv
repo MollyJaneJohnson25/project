@@ -9,4 +9,4 @@ item,phasetype,max_time,text,shuffle_1,survey,left_back,right_back,lock_img,lock
 0,survey,,,off,autism_quotient.csv,,,,,,,,,,,,
 0,survey,,,off,sas_ant.csv,,,,,,,,,,,,
 0,instruct,,"<span style=""font-size:40px""><b>You've completed this part of the study! </span></b><br><br> 
-<span style=""font-size:25px""><b>You will receive a debrief of this study in an email.</span></b><br><br><span style=""font-size:25px""><b>Please proceed and DO NOT CLOSE THE WINDOW until you are told that the data has been succesfully sent. </span></b>",off,,,,,,,,,,,,,
+<span style=""font-size:25px""><b>.</span></b><br><br><span style=""font-size:25px""><b>Please proceed and DO NOT CLOSE THE WINDOW until you are told that the data has been succesfully sent. </span></b>",off,,,,,,,,,,,,,
